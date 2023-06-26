@@ -1,6 +1,9 @@
 # omni-food
 Created an Responsive web page using CSS3, HTML5 and JavaScript called Omnifood
 
+![ezgif com-video-to-gif](https://github.com/Nakhilpemma/omni-food/assets/137686959/85db7a42-03b5-4375-8425-7352f6cb5250)
+
+
 ![omni1](https://github.com/Nakhilpemma/omni-food/assets/137686959/9957dd80-ce92-4402-9ba3-639f0ec3beaf)
 ![omni2](https://github.com/Nakhilpemma/omni-food/assets/137686959/efac23c1-bc1f-4401-bebf-c0f3b30f1027)
 ![omni3](https://github.com/Nakhilpemma/omni-food/assets/137686959/8dd7c85b-76f7-4682-aeb6-4012a52f0718)
